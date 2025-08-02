@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/SampleAI/static/js/main.b48b7706.js",
+    "index.html": "/SampleAI/index.html",
+    "main.b48b7706.js.map": "/SampleAI/static/js/main.b48b7706.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b48b7706.js"
+  ]
+}
